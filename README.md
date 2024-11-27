@@ -49,3 +49,12 @@
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/28861843?s=200&v=4" alt="MySQL" width="40">
 </a>
+
+## 📊 GitHub Stats
+![Rival's GitHub stats](https://github-readme-stats.vercel.app/api?username=rivalmsayid&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=rivalmsayid&theme=tokyonight)
+
+## 🧑‍💻 Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=rivalmsayid&color=blue&style=flat-square)
