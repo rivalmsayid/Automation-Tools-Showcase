@@ -1,3 +1,4 @@
+<img align="center" src=="https://github.com/rivalmsayid/rivalmsayid/blob/main/Blue%20and%20Purple%20Neon%20Gradient%20Modern%20Tech%20for%20Beginners%20YouTube%20Thumbnail.png">
 <h1 align="center">Hi 👋, I'm Rival Muhammad Sayid</h1>
 <h3 align="center">A passionate quality asssurace engineer from Indonesia</h3>
 
