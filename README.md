@@ -1,7 +1,8 @@
-<img align="center" src=="https://github.com/rivalmsayid/rivalmsayid/blob/main/Blue%20and%20Purple%20Neon%20Gradient%20Modern%20Tech%20for%20Beginners%20YouTube%20Thumbnail.png">
+<img src="https://raw.githubusercontent.com/rivalmsayid/rivalmsayid/refs/heads/main/Blue%20and%20Purple%20Neon%20Gradient%20Modern%20Tech%20for%20Beginners%20YouTube%20Thumbnail.png" alt="Alt Text" title="Optional Title">
+
 <h1 align="center">Hi 👋, I'm Rival Muhammad Sayid</h1>
 <h3 align="center">A passionate quality asssurace engineer from Indonesia</h3>
-
+Blue and Purple Neon Gradient Modern Tech for Beginners YouTube Thumbnail.png
 - 🌱 I’m currently learning **Selenium, Cypress, Playwright**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rivalmsayid?tab=repositories](https://github.com/rivalmsayid?tab=repositories)
