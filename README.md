@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rival Muhammad Sayid</h1>
 <h3 align="center">A passionate quality asssurace engineer from Indonesia</h3>
-Blue and Purple Neon Gradient Modern Tech for Beginners YouTube Thumbnail.png
+
 - 🌱 I’m currently learning **Selenium, Cypress, Playwright**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rivalmsayid?tab=repositories](https://github.com/rivalmsayid?tab=repositories)
