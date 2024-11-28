@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rival Muhammad Sayid</h1>
 <h3 align="center">A passionate quality asssurace engineer from Indonesia</h3>
 
-- 🌱 Currently familiar with Manual Testing Katalon, Appium, Selenium, Postman, JMeter, Trello, TestRails and learning Cypress & Playwright.
+- 🌱 Currently familiar with Manual Testing, Katalon, Appium, Selenium, Postman, JMeter, Trello, TestRails and learning Cypress & Playwright.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rivalmsayid?tab=repositories](https://github.com/rivalmsayid?tab=repositories)
 
@@ -19,7 +19,7 @@
 </p>
 
 <h3>Tools</h3>
-<a href="https://katalon.com" target="_blank">
+<a href="https://katalon.com" target="https://katalon.com">
   <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Katalon Studio" width="40">
 </a>
 <a href="https://www.selenium.dev/" target="_blank">
