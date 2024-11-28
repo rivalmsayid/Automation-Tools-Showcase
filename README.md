@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rival Muhammad Sayid</h1>
 <h3 align="center">A passionate quality asssurace engineer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Selenium, Cypress, Playwright**
+- 🌱 Currently familiar with Manual Testing Katalon, Appium, Selenium, Postman, JMeter, Trello, TestRails and learning Cypress & Playwright.
 
 - 👨‍💻 All of my projects are available at [https://github.com/rivalmsayid?tab=repositories](https://github.com/rivalmsayid?tab=repositories)
 
